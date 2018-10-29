@@ -73,7 +73,7 @@ for song_info in song_infos:                                                # å¯
         #     "music_path": "songs\\id.mp3",
         #     "lyric_path": "lyrics\\id.txt"
         # }
-        music_id = '%03d' % count
+        music_id = '{}'.format(singer_id) + '%03d' % count
         music_name = '{}'.format(song_info[0])
         img_path = 'images\\{}.png'.format(music_id)
         music_path = 'songs\\{}.mp3'.format(music_id)
