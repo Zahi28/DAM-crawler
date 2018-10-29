@@ -89,7 +89,7 @@ for song_info in song_infos:                                                # �
         urlretrieve(img_url, img_path)
         urlretrieve(song_url, music_path)
         musics_json.append(music_json)
-        print(song_info[1])
+        print('download {}'.format(song_info[0]))
         count = count + 1
     except OSError:                                                          # 部分歌曲名字含有特殊字符，此处直接跳过不做处理
         continue

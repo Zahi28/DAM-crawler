@@ -1,5 +1,804 @@
 {
     "musics": [
-
+        {
+            "id": "3684001",
+            "music": "那些你很冒险的梦",
+            "singer": "林俊杰",
+            "img_path": "images\\3684001.png",
+            "music_path": "songs\\3684001.mp3",
+            "lyric_path": "lyrics\\3684001.txt"
+        },
+        {
+            "id": "3684002",
+            "music": "醉赤壁",
+            "singer": "林俊杰",
+            "img_path": "images\\3684002.png",
+            "music_path": "songs\\3684002.mp3",
+            "lyric_path": "lyrics\\3684002.txt"
+        },
+        {
+            "id": "3684003",
+            "music": "当你",
+            "singer": "林俊杰",
+            "img_path": "images\\3684003.png",
+            "music_path": "songs\\3684003.mp3",
+            "lyric_path": "lyrics\\3684003.txt"
+        },
+        {
+            "id": "3684004",
+            "music": "不为谁而作的歌",
+            "singer": "林俊杰",
+            "img_path": "images\\3684004.png",
+            "music_path": "songs\\3684004.mp3",
+            "lyric_path": "lyrics\\3684004.txt"
+        },
+        {
+            "id": "3684005",
+            "music": "可惜没如果",
+            "singer": "林俊杰",
+            "img_path": "images\\3684005.png",
+            "music_path": "songs\\3684005.mp3",
+            "lyric_path": "lyrics\\3684005.txt"
+        },
+        {
+            "id": "3684006",
+            "music": "她说",
+            "singer": "林俊杰",
+            "img_path": "images\\3684006.png",
+            "music_path": "songs\\3684006.mp3",
+            "lyric_path": "lyrics\\3684006.txt"
+        },
+        {
+            "id": "3684007",
+            "music": "江南",
+            "singer": "林俊杰",
+            "img_path": "images\\3684007.png",
+            "music_path": "songs\\3684007.mp3",
+            "lyric_path": "lyrics\\3684007.txt"
+        },
+        {
+            "id": "3684008",
+            "music": "我还想她",
+            "singer": "林俊杰",
+            "img_path": "images\\3684008.png",
+            "music_path": "songs\\3684008.mp3",
+            "lyric_path": "lyrics\\3684008.txt"
+        },
+        {
+            "id": "3684009",
+            "music": "Always Online",
+            "singer": "林俊杰",
+            "img_path": "images\\3684009.png",
+            "music_path": "songs\\3684009.mp3",
+            "lyric_path": "lyrics\\3684009.txt"
+        },
+        {
+            "id": "3684010",
+            "music": "修炼爱情",
+            "singer": "林俊杰",
+            "img_path": "images\\3684010.png",
+            "music_path": "songs\\3684010.mp3",
+            "lyric_path": "lyrics\\3684010.txt"
+        },
+        {
+            "id": "3684011",
+            "music": "飞云之下",
+            "singer": "林俊杰",
+            "img_path": "images\\3684011.png",
+            "music_path": "songs\\3684011.mp3",
+            "lyric_path": "lyrics\\3684011.txt"
+        },
+        {
+            "id": "3684012",
+            "music": "爱笑的眼睛",
+            "singer": "林俊杰",
+            "img_path": "images\\3684012.png",
+            "music_path": "songs\\3684012.mp3",
+            "lyric_path": "lyrics\\3684012.txt"
+        },
+        {
+            "id": "3684013",
+            "music": "美人鱼",
+            "singer": "林俊杰",
+            "img_path": "images\\3684013.png",
+            "music_path": "songs\\3684013.mp3",
+            "lyric_path": "lyrics\\3684013.txt"
+        },
+        {
+            "id": "3684014",
+            "music": "背对背拥抱",
+            "singer": "林俊杰",
+            "img_path": "images\\3684014.png",
+            "music_path": "songs\\3684014.mp3",
+            "lyric_path": "lyrics\\3684014.txt"
+        },
+        {
+            "id": "3684015",
+            "music": "小酒窝",
+            "singer": "林俊杰",
+            "img_path": "images\\3684015.png",
+            "music_path": "songs\\3684015.mp3",
+            "lyric_path": "lyrics\\3684015.txt"
+        },
+        {
+            "id": "3684016",
+            "music": "期待爱",
+            "singer": "林俊杰",
+            "img_path": "images\\3684016.png",
+            "music_path": "songs\\3684016.mp3",
+            "lyric_path": "lyrics\\3684016.txt"
+        },
+        {
+            "id": "3684017",
+            "music": "关键词",
+            "singer": "林俊杰",
+            "img_path": "images\\3684017.png",
+            "music_path": "songs\\3684017.mp3",
+            "lyric_path": "lyrics\\3684017.txt"
+        },
+        {
+            "id": "3684018",
+            "music": "学不会",
+            "singer": "林俊杰",
+            "img_path": "images\\3684018.png",
+            "music_path": "songs\\3684018.mp3",
+            "lyric_path": "lyrics\\3684018.txt"
+        },
+        {
+            "id": "3684019",
+            "music": "一千年以后",
+            "singer": "林俊杰",
+            "img_path": "images\\3684019.png",
+            "music_path": "songs\\3684019.mp3",
+            "lyric_path": "lyrics\\3684019.txt"
+        },
+        {
+            "id": "3684020",
+            "music": "只对你有感觉",
+            "singer": "林俊杰",
+            "img_path": "images\\3684020.png",
+            "music_path": "songs\\3684020.mp3",
+            "lyric_path": "lyrics\\3684020.txt"
+        },
+        {
+            "id": "3684021",
+            "music": "期待你的爱",
+            "singer": "林俊杰",
+            "img_path": "images\\3684021.png",
+            "music_path": "songs\\3684021.mp3",
+            "lyric_path": "lyrics\\3684021.txt"
+        },
+        {
+            "id": "3684022",
+            "music": "豆浆油条",
+            "singer": "林俊杰",
+            "img_path": "images\\3684022.png",
+            "music_path": "songs\\3684022.mp3",
+            "lyric_path": "lyrics\\3684022.txt"
+        },
+        {
+            "id": "3684023",
+            "music": "生生",
+            "singer": "林俊杰",
+            "img_path": "images\\3684023.png",
+            "music_path": "songs\\3684023.mp3",
+            "lyric_path": "lyrics\\3684023.txt"
+        },
+        {
+            "id": "3684024",
+            "music": "曹操",
+            "singer": "林俊杰",
+            "img_path": "images\\3684024.png",
+            "music_path": "songs\\3684024.mp3",
+            "lyric_path": "lyrics\\3684024.txt"
+        },
+        {
+            "id": "3684025",
+            "music": "不潮不用花钱",
+            "singer": "林俊杰",
+            "img_path": "images\\3684025.png",
+            "music_path": "songs\\3684025.mp3",
+            "lyric_path": "lyrics\\3684025.txt"
+        },
+        {
+            "id": "3684026",
+            "music": "手心的蔷薇",
+            "singer": "林俊杰",
+            "img_path": "images\\3684026.png",
+            "music_path": "songs\\3684026.mp3",
+            "lyric_path": "lyrics\\3684026.txt"
+        },
+        {
+            "id": "3684027",
+            "music": "记得",
+            "singer": "林俊杰",
+            "img_path": "images\\3684027.png",
+            "music_path": "songs\\3684027.mp3",
+            "lyric_path": "lyrics\\3684027.txt"
+        },
+        {
+            "id": "3684028",
+            "music": "裂缝中的阳光",
+            "singer": "林俊杰",
+            "img_path": "images\\3684028.png",
+            "music_path": "songs\\3684028.mp3",
+            "lyric_path": "lyrics\\3684028.txt"
+        },
+        {
+            "id": "3684029",
+            "music": "杀手",
+            "singer": "林俊杰",
+            "img_path": "images\\3684029.png",
+            "music_path": "songs\\3684029.mp3",
+            "lyric_path": "lyrics\\3684029.txt"
+        },
+        {
+            "id": "3684030",
+            "music": "弹唱",
+            "singer": "林俊杰",
+            "img_path": "images\\3684030.png",
+            "music_path": "songs\\3684030.mp3",
+            "lyric_path": "lyrics\\3684030.txt"
+        },
+        {
+            "id": "3684031",
+            "music": "被风吹过的夏天",
+            "singer": "林俊杰",
+            "img_path": "images\\3684031.png",
+            "music_path": "songs\\3684031.mp3",
+            "lyric_path": "lyrics\\3684031.txt"
+        },
+        {
+            "id": "3684032",
+            "music": "黑暗骑士",
+            "singer": "林俊杰",
+            "img_path": "images\\3684032.png",
+            "music_path": "songs\\3684032.mp3",
+            "lyric_path": "lyrics\\3684032.txt"
+        },
+        {
+            "id": "3684033",
+            "music": "Too Bad",
+            "singer": "林俊杰",
+            "img_path": "images\\3684033.png",
+            "music_path": "songs\\3684033.mp3",
+            "lyric_path": "lyrics\\3684033.txt"
+        },
+        {
+            "id": "3684034",
+            "music": "一眼万年",
+            "singer": "林俊杰",
+            "img_path": "images\\3684034.png",
+            "music_path": "songs\\3684034.mp3",
+            "lyric_path": "lyrics\\3684034.txt"
+        },
+        {
+            "id": "3684035",
+            "music": "心墙",
+            "singer": "林俊杰",
+            "img_path": "images\\3684035.png",
+            "music_path": "songs\\3684035.mp3",
+            "lyric_path": "lyrics\\3684035.txt"
+        },
+        {
+            "id": "3684036",
+            "music": "我很想爱他",
+            "singer": "林俊杰",
+            "img_path": "images\\3684036.png",
+            "music_path": "songs\\3684036.mp3",
+            "lyric_path": "lyrics\\3684036.txt"
+        },
+        {
+            "id": "3684037",
+            "music": "原来",
+            "singer": "林俊杰",
+            "img_path": "images\\3684037.png",
+            "music_path": "songs\\3684037.mp3",
+            "lyric_path": "lyrics\\3684037.txt"
+        },
+        {
+            "id": "3684038",
+            "music": "爱不会绝迹",
+            "singer": "林俊杰",
+            "img_path": "images\\3684038.png",
+            "music_path": "songs\\3684038.mp3",
+            "lyric_path": "lyrics\\3684038.txt"
+        },
+        {
+            "id": "3684039",
+            "music": "故事细腻",
+            "singer": "林俊杰",
+            "img_path": "images\\3684039.png",
+            "music_path": "songs\\3684039.mp3",
+            "lyric_path": "lyrics\\3684039.txt"
+        },
+        {
+            "id": "3684040",
+            "music": "编号89757",
+            "singer": "林俊杰",
+            "img_path": "images\\3684040.png",
+            "music_path": "songs\\3684040.mp3",
+            "lyric_path": "lyrics\\3684040.txt"
+        },
+        {
+            "id": "3684041",
+            "music": "第几个一百天",
+            "singer": "林俊杰",
+            "img_path": "images\\3684041.png",
+            "music_path": "songs\\3684041.mp3",
+            "lyric_path": "lyrics\\3684041.txt"
+        },
+        {
+            "id": "3684042",
+            "music": "只对你说 (莎朗嘿唷)",
+            "singer": "林俊杰",
+            "img_path": "images\\3684042.png",
+            "music_path": "songs\\3684042.mp3",
+            "lyric_path": "lyrics\\3684042.txt"
+        },
+        {
+            "id": "3684043",
+            "music": "冻结",
+            "singer": "林俊杰",
+            "img_path": "images\\3684043.png",
+            "music_path": "songs\\3684043.mp3",
+            "lyric_path": "lyrics\\3684043.txt"
+        },
+        {
+            "id": "3684044",
+            "music": "就是我",
+            "singer": "林俊杰",
+            "img_path": "images\\3684044.png",
+            "music_path": "songs\\3684044.mp3",
+            "lyric_path": "lyrics\\3684044.txt"
+        },
+        {
+            "id": "3684045",
+            "music": "握不住的他",
+            "singer": "林俊杰",
+            "img_path": "images\\3684045.png",
+            "music_path": "songs\\3684045.mp3",
+            "lyric_path": "lyrics\\3684045.txt"
+        },
+        {
+            "id": "3684046",
+            "music": "你要的不是我",
+            "singer": "林俊杰",
+            "img_path": "images\\3684046.png",
+            "music_path": "songs\\3684046.mp3",
+            "lyric_path": "lyrics\\3684046.txt"
+        },
+        {
+            "id": "3684047",
+            "music": "只要有你的地方",
+            "singer": "林俊杰",
+            "img_path": "images\\3684047.png",
+            "music_path": "songs\\3684047.mp3",
+            "lyric_path": "lyrics\\3684047.txt"
+        },
+        {
+            "id": "3684048",
+            "music": "因你而在",
+            "singer": "林俊杰",
+            "img_path": "images\\3684048.png",
+            "music_path": "songs\\3684048.mp3",
+            "lyric_path": "lyrics\\3684048.txt"
+        },
+        {
+            "id": "3684049",
+            "music": "突然累了",
+            "singer": "林俊杰",
+            "img_path": "images\\3684049.png",
+            "music_path": "songs\\3684049.mp3",
+            "lyric_path": "lyrics\\3684049.txt"
+        },
+        {
+            "id": "3684050",
+            "music": "以后要做的事",
+            "singer": "林俊杰",
+            "img_path": "images\\3684050.png",
+            "music_path": "songs\\3684050.mp3",
+            "lyric_path": "lyrics\\3684050.txt"
+        },
+        {
+            "id": "3684001",
+            "music": "那些你很冒险的梦",
+            "singer": "林俊杰",
+            "img_path": "images\\3684001.png",
+            "music_path": "songs\\3684001.mp3",
+            "lyric_path": "lyrics\\3684001.txt"
+        },
+        {
+            "id": "3684002",
+            "music": "醉赤壁",
+            "singer": "林俊杰",
+            "img_path": "images\\3684002.png",
+            "music_path": "songs\\3684002.mp3",
+            "lyric_path": "lyrics\\3684002.txt"
+        },
+        {
+            "id": "3684003",
+            "music": "当你",
+            "singer": "林俊杰",
+            "img_path": "images\\3684003.png",
+            "music_path": "songs\\3684003.mp3",
+            "lyric_path": "lyrics\\3684003.txt"
+        },
+        {
+            "id": "3684004",
+            "music": "不为谁而作的歌",
+            "singer": "林俊杰",
+            "img_path": "images\\3684004.png",
+            "music_path": "songs\\3684004.mp3",
+            "lyric_path": "lyrics\\3684004.txt"
+        },
+        {
+            "id": "3684005",
+            "music": "可惜没如果",
+            "singer": "林俊杰",
+            "img_path": "images\\3684005.png",
+            "music_path": "songs\\3684005.mp3",
+            "lyric_path": "lyrics\\3684005.txt"
+        },
+        {
+            "id": "3684006",
+            "music": "她说",
+            "singer": "林俊杰",
+            "img_path": "images\\3684006.png",
+            "music_path": "songs\\3684006.mp3",
+            "lyric_path": "lyrics\\3684006.txt"
+        },
+        {
+            "id": "3684007",
+            "music": "江南",
+            "singer": "林俊杰",
+            "img_path": "images\\3684007.png",
+            "music_path": "songs\\3684007.mp3",
+            "lyric_path": "lyrics\\3684007.txt"
+        },
+        {
+            "id": "3684008",
+            "music": "我还想她",
+            "singer": "林俊杰",
+            "img_path": "images\\3684008.png",
+            "music_path": "songs\\3684008.mp3",
+            "lyric_path": "lyrics\\3684008.txt"
+        },
+        {
+            "id": "3684009",
+            "music": "Always Online",
+            "singer": "林俊杰",
+            "img_path": "images\\3684009.png",
+            "music_path": "songs\\3684009.mp3",
+            "lyric_path": "lyrics\\3684009.txt"
+        },
+        {
+            "id": "3684010",
+            "music": "修炼爱情",
+            "singer": "林俊杰",
+            "img_path": "images\\3684010.png",
+            "music_path": "songs\\3684010.mp3",
+            "lyric_path": "lyrics\\3684010.txt"
+        },
+        {
+            "id": "3684011",
+            "music": "飞云之下",
+            "singer": "林俊杰",
+            "img_path": "images\\3684011.png",
+            "music_path": "songs\\3684011.mp3",
+            "lyric_path": "lyrics\\3684011.txt"
+        },
+        {
+            "id": "3684012",
+            "music": "爱笑的眼睛",
+            "singer": "林俊杰",
+            "img_path": "images\\3684012.png",
+            "music_path": "songs\\3684012.mp3",
+            "lyric_path": "lyrics\\3684012.txt"
+        },
+        {
+            "id": "3684013",
+            "music": "美人鱼",
+            "singer": "林俊杰",
+            "img_path": "images\\3684013.png",
+            "music_path": "songs\\3684013.mp3",
+            "lyric_path": "lyrics\\3684013.txt"
+        },
+        {
+            "id": "3684014",
+            "music": "背对背拥抱",
+            "singer": "林俊杰",
+            "img_path": "images\\3684014.png",
+            "music_path": "songs\\3684014.mp3",
+            "lyric_path": "lyrics\\3684014.txt"
+        },
+        {
+            "id": "3684015",
+            "music": "小酒窝",
+            "singer": "林俊杰",
+            "img_path": "images\\3684015.png",
+            "music_path": "songs\\3684015.mp3",
+            "lyric_path": "lyrics\\3684015.txt"
+        },
+        {
+            "id": "3684016",
+            "music": "期待爱",
+            "singer": "林俊杰",
+            "img_path": "images\\3684016.png",
+            "music_path": "songs\\3684016.mp3",
+            "lyric_path": "lyrics\\3684016.txt"
+        },
+        {
+            "id": "3684017",
+            "music": "关键词",
+            "singer": "林俊杰",
+            "img_path": "images\\3684017.png",
+            "music_path": "songs\\3684017.mp3",
+            "lyric_path": "lyrics\\3684017.txt"
+        },
+        {
+            "id": "3684018",
+            "music": "学不会",
+            "singer": "林俊杰",
+            "img_path": "images\\3684018.png",
+            "music_path": "songs\\3684018.mp3",
+            "lyric_path": "lyrics\\3684018.txt"
+        },
+        {
+            "id": "3684019",
+            "music": "一千年以后",
+            "singer": "林俊杰",
+            "img_path": "images\\3684019.png",
+            "music_path": "songs\\3684019.mp3",
+            "lyric_path": "lyrics\\3684019.txt"
+        },
+        {
+            "id": "3684020",
+            "music": "只对你有感觉",
+            "singer": "林俊杰",
+            "img_path": "images\\3684020.png",
+            "music_path": "songs\\3684020.mp3",
+            "lyric_path": "lyrics\\3684020.txt"
+        },
+        {
+            "id": "3684021",
+            "music": "期待你的爱",
+            "singer": "林俊杰",
+            "img_path": "images\\3684021.png",
+            "music_path": "songs\\3684021.mp3",
+            "lyric_path": "lyrics\\3684021.txt"
+        },
+        {
+            "id": "3684022",
+            "music": "豆浆油条",
+            "singer": "林俊杰",
+            "img_path": "images\\3684022.png",
+            "music_path": "songs\\3684022.mp3",
+            "lyric_path": "lyrics\\3684022.txt"
+        },
+        {
+            "id": "3684023",
+            "music": "生生",
+            "singer": "林俊杰",
+            "img_path": "images\\3684023.png",
+            "music_path": "songs\\3684023.mp3",
+            "lyric_path": "lyrics\\3684023.txt"
+        },
+        {
+            "id": "3684024",
+            "music": "曹操",
+            "singer": "林俊杰",
+            "img_path": "images\\3684024.png",
+            "music_path": "songs\\3684024.mp3",
+            "lyric_path": "lyrics\\3684024.txt"
+        },
+        {
+            "id": "3684025",
+            "music": "不潮不用花钱",
+            "singer": "林俊杰",
+            "img_path": "images\\3684025.png",
+            "music_path": "songs\\3684025.mp3",
+            "lyric_path": "lyrics\\3684025.txt"
+        },
+        {
+            "id": "3684026",
+            "music": "手心的蔷薇",
+            "singer": "林俊杰",
+            "img_path": "images\\3684026.png",
+            "music_path": "songs\\3684026.mp3",
+            "lyric_path": "lyrics\\3684026.txt"
+        },
+        {
+            "id": "3684027",
+            "music": "记得",
+            "singer": "林俊杰",
+            "img_path": "images\\3684027.png",
+            "music_path": "songs\\3684027.mp3",
+            "lyric_path": "lyrics\\3684027.txt"
+        },
+        {
+            "id": "3684028",
+            "music": "裂缝中的阳光",
+            "singer": "林俊杰",
+            "img_path": "images\\3684028.png",
+            "music_path": "songs\\3684028.mp3",
+            "lyric_path": "lyrics\\3684028.txt"
+        },
+        {
+            "id": "3684029",
+            "music": "杀手",
+            "singer": "林俊杰",
+            "img_path": "images\\3684029.png",
+            "music_path": "songs\\3684029.mp3",
+            "lyric_path": "lyrics\\3684029.txt"
+        },
+        {
+            "id": "3684030",
+            "music": "弹唱",
+            "singer": "林俊杰",
+            "img_path": "images\\3684030.png",
+            "music_path": "songs\\3684030.mp3",
+            "lyric_path": "lyrics\\3684030.txt"
+        },
+        {
+            "id": "3684031",
+            "music": "被风吹过的夏天",
+            "singer": "林俊杰",
+            "img_path": "images\\3684031.png",
+            "music_path": "songs\\3684031.mp3",
+            "lyric_path": "lyrics\\3684031.txt"
+        },
+        {
+            "id": "3684032",
+            "music": "黑暗骑士",
+            "singer": "林俊杰",
+            "img_path": "images\\3684032.png",
+            "music_path": "songs\\3684032.mp3",
+            "lyric_path": "lyrics\\3684032.txt"
+        },
+        {
+            "id": "3684033",
+            "music": "Too Bad",
+            "singer": "林俊杰",
+            "img_path": "images\\3684033.png",
+            "music_path": "songs\\3684033.mp3",
+            "lyric_path": "lyrics\\3684033.txt"
+        },
+        {
+            "id": "3684034",
+            "music": "一眼万年",
+            "singer": "林俊杰",
+            "img_path": "images\\3684034.png",
+            "music_path": "songs\\3684034.mp3",
+            "lyric_path": "lyrics\\3684034.txt"
+        },
+        {
+            "id": "3684035",
+            "music": "心墙",
+            "singer": "林俊杰",
+            "img_path": "images\\3684035.png",
+            "music_path": "songs\\3684035.mp3",
+            "lyric_path": "lyrics\\3684035.txt"
+        },
+        {
+            "id": "3684036",
+            "music": "我很想爱他",
+            "singer": "林俊杰",
+            "img_path": "images\\3684036.png",
+            "music_path": "songs\\3684036.mp3",
+            "lyric_path": "lyrics\\3684036.txt"
+        },
+        {
+            "id": "3684037",
+            "music": "原来",
+            "singer": "林俊杰",
+            "img_path": "images\\3684037.png",
+            "music_path": "songs\\3684037.mp3",
+            "lyric_path": "lyrics\\3684037.txt"
+        },
+        {
+            "id": "3684038",
+            "music": "爱不会绝迹",
+            "singer": "林俊杰",
+            "img_path": "images\\3684038.png",
+            "music_path": "songs\\3684038.mp3",
+            "lyric_path": "lyrics\\3684038.txt"
+        },
+        {
+            "id": "3684039",
+            "music": "故事细腻",
+            "singer": "林俊杰",
+            "img_path": "images\\3684039.png",
+            "music_path": "songs\\3684039.mp3",
+            "lyric_path": "lyrics\\3684039.txt"
+        },
+        {
+            "id": "3684040",
+            "music": "编号89757",
+            "singer": "林俊杰",
+            "img_path": "images\\3684040.png",
+            "music_path": "songs\\3684040.mp3",
+            "lyric_path": "lyrics\\3684040.txt"
+        },
+        {
+            "id": "3684041",
+            "music": "第几个一百天",
+            "singer": "林俊杰",
+            "img_path": "images\\3684041.png",
+            "music_path": "songs\\3684041.mp3",
+            "lyric_path": "lyrics\\3684041.txt"
+        },
+        {
+            "id": "3684042",
+            "music": "只对你说 (莎朗嘿唷)",
+            "singer": "林俊杰",
+            "img_path": "images\\3684042.png",
+            "music_path": "songs\\3684042.mp3",
+            "lyric_path": "lyrics\\3684042.txt"
+        },
+        {
+            "id": "3684043",
+            "music": "冻结",
+            "singer": "林俊杰",
+            "img_path": "images\\3684043.png",
+            "music_path": "songs\\3684043.mp3",
+            "lyric_path": "lyrics\\3684043.txt"
+        },
+        {
+            "id": "3684044",
+            "music": "就是我",
+            "singer": "林俊杰",
+            "img_path": "images\\3684044.png",
+            "music_path": "songs\\3684044.mp3",
+            "lyric_path": "lyrics\\3684044.txt"
+        },
+        {
+            "id": "3684045",
+            "music": "握不住的他",
+            "singer": "林俊杰",
+            "img_path": "images\\3684045.png",
+            "music_path": "songs\\3684045.mp3",
+            "lyric_path": "lyrics\\3684045.txt"
+        },
+        {
+            "id": "3684046",
+            "music": "你要的不是我",
+            "singer": "林俊杰",
+            "img_path": "images\\3684046.png",
+            "music_path": "songs\\3684046.mp3",
+            "lyric_path": "lyrics\\3684046.txt"
+        },
+        {
+            "id": "3684047",
+            "music": "只要有你的地方",
+            "singer": "林俊杰",
+            "img_path": "images\\3684047.png",
+            "music_path": "songs\\3684047.mp3",
+            "lyric_path": "lyrics\\3684047.txt"
+        },
+        {
+            "id": "3684048",
+            "music": "因你而在",
+            "singer": "林俊杰",
+            "img_path": "images\\3684048.png",
+            "music_path": "songs\\3684048.mp3",
+            "lyric_path": "lyrics\\3684048.txt"
+        },
+        {
+            "id": "3684049",
+            "music": "突然累了",
+            "singer": "林俊杰",
+            "img_path": "images\\3684049.png",
+            "music_path": "songs\\3684049.mp3",
+            "lyric_path": "lyrics\\3684049.txt"
+        },
+        {
+            "id": "3684050",
+            "music": "以后要做的事",
+            "singer": "林俊杰",
+            "img_path": "images\\3684050.png",
+            "music_path": "songs\\3684050.mp3",
+            "lyric_path": "lyrics\\3684050.txt"
+        }
     ]
 }
